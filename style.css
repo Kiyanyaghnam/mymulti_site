@@ -11,4 +11,20 @@
   p {
     font-family: 'lucida handwriting', cursive;
     font-size: 16px;
-  }</style>
+  }
+
+.aboutme {
+  font-size: 16px;
+    color: blue;
+  }
+  
+  #cool { 
+    color: purple;
+    background-color: aliceblue;
+  }
+  
+  
+  </style>
+
+
+  
